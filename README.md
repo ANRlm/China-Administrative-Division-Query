@@ -66,7 +66,7 @@ gcc Administrative_division.c -o Administrative_division.exe
 ```bash
 # 使用 gcc
 gcc Administrative_division.c -o Administrative_division
-# 或使用 clang(macOS)
+# 或使用 clang
 clang Administrative_division.c -o Administrative_division
 ```
 
